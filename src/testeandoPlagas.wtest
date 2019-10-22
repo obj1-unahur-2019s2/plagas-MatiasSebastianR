@@ -1,0 +1,10 @@
+import Plagas.*
+
+test "Plagas" {
+	
+	var mascotita = new Mascota (nivelDeSalud = 100)
+	var home = new Hogar (nivelMugre = 5, confort = 10)
+	var huertita = new Huerta (capacidadDeProduccion = 50)
+	
+	
+}
